@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# [](#header-1) About Us
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](README.md).
